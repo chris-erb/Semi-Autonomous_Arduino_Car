@@ -1,7 +1,7 @@
 # Semi-Autonomous Arduino Car
 
-**Author:** Chris Erb
-
+**Author:** 
+Christopher Erb
 
 cerb01@manhattan.edu
 
